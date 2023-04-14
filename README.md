@@ -8,10 +8,10 @@ AR ARmi merupakan sebuah ar yang menampilkan penjelasan tentang militer. Pada ap
 Serta user dapat juga melihat tampilan room barak militer dari mozilla hubs.
 
 <ol>
-	Image Targer(marker AR) : https://github.com/deku31/AR_Army/tree/main/image%20Target
-	AR ARMY.apk             : https://github.com/deku31/AR_Army/tree/main/Build%20Apk
-	asset project           : https://github.com/deku31/AR_Army/tree/main/Assets
-	full project            : 
-	Demo Program		   : 
+	<li>Image Targer(marker AR) : https://github.com/deku31/AR_Army/tree/main/image%20Target</li>
+	<li>AR ARMY.apk             : https://github.com/deku31/AR_Army/tree/main/Build%20Apk</li>
+	<li>asset project           : https://github.com/deku31/AR_Army/tree/main/Assets</li>
+	<li>full project            : </li>
+	<li>Demo Program	    : </li>
 </ol>
 
