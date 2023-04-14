@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="images" size="0.250000 0.250000" />
+    <ImageTarget name="istockphoto-520700958-612x612" size="0.250000 0.250000" />
+    <ImageTarget name="Dance" size="0.250000 0.200163" />
+  </Tracking>
+</QCARConfig>
