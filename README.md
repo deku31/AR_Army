@@ -9,12 +9,6 @@ AR ARmi merupakan sebuah ar yang menampilkan penjelasan tentang militer. Pada ap
 Serta user dapat juga melihat tampilan room barak militer dari mozilla hubs.
 
 <h3>Link Penting :</h3>
-=======
-
-
-<h3> Link Penting :</h3>
-=======
-<h3>Link Penting :</h3>
 
 <ul>
 	<li>Image Targer(marker AR)	: https://github.com/deku31/AR_Army/tree/main/image%20Target</li>
